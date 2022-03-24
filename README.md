@@ -54,7 +54,7 @@ by Dawson Nichols
         Changed id for links to shorten them. i.e. "SEO, ORM, SMM" 
 
 
-![Screenshots] (/docs/Screenshots/screenshot1.png?raw=true "Screenshot")
+![screenshot1](https://user-images.githubusercontent.com/85593807/159989976-89b6e7a4-d541-4d07-a48c-455fcb20eef9.png)
 
 
-![Screenshots] (/docs/Screenshots/screenshot2.png?raw=true "Screenshot2")
+![screenshot2](https://user-images.githubusercontent.com/85593807/159990005-3118a206-2897-443d-93a2-23ce62a7bcc0.png)
