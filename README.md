@@ -1,6 +1,9 @@
 # Code-Refactor
 
 
+Link to Live Version: https://dawsonnichols.github.io/Code-Refactor/
+
+
 by Dawson Nichols
 
 # # Notes on fixes: 
@@ -51,3 +54,7 @@ by Dawson Nichols
         Changed id for links to shorten them. i.e. "SEO, ORM, SMM" 
 
 
+![Screenshots] (/docs/Screenshots/screenshot1.png?raw=true "Screenshot")
+
+
+![Screenshots] (/docs/Screenshots/screenshot2.png?raw=true "Screenshot2")
